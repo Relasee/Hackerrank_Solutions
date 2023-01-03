@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 185 solutions to Hackerrank practice problems with C# and MSSQL.
+This repository contains 59 solutions to Hackerrank practice problems with C# and MSSQL.
 
 
 
@@ -26,7 +26,7 @@ This repository contains 185 solutions to Hackerrank practice problems with C# a
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Implementation/Counting%20Valleys) | Score: 10
 
 
-  -SQL
+- SQL
   
     01. Basic Select
 
@@ -51,3 +51,36 @@ This repository contains 185 solutions to Hackerrank practice problems with C# a
         - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Basic%20Select/Employee%20Names) | Score: 10
         - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Basic%20Select/Employee%20Salaries) | Score: 10
 
+    02. Advanced Select
+ 
+        - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Advanced%20Select/Type%20of%20Triangle) | Score: 10
+        - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Advanced%20Select/The%20PADS) | Score: 10
+        - Occupations | [Problem](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Advanced%20Select/Occupations) | Score: 10
+    03. Aggregation
+    
+        - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function) | Score: 10
+        - Revising Aggregations - The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function) | Score: 10
+        - Revising Aggregations - Averages | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Revising%20Aggregations%20-%20Averages) | Score: 10
+        - Average Population | [Problem](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Average%20Population) | Score: 10
+        - Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Japan%20Population) | Score: 10
+        - Population Density Difference | [Problem](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Population%20Density%20Difference) | Score: 10
+        - The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/The%20Blunder) | Score: 10
+        - Top Earners | [Problem](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Top%20Earners) | Score: 10
+        - Weather Observation Station 2 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%202) | Score: 10
+        - Weather Observation Station 13 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%213) | Score: 10
+        - Weather Observation Station 14 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%214) | Score: 10
+        - Weather Observation Station 15 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%215) | Score: 10
+        - Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%216) | Score: 10
+        - Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%217) | Score: 10
+        - Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%218) | Score: 10
+        - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%219) | Score: 10
+        - Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Aggregation/Weather%20Observation%20Station%220) | Score: 10
+  04. Basic Join
+
+        - Population Census | [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Basic%20Join/Population%20Census) | Score: 10
+        - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Basic%20Join/African%20Cities) | Score: 10
+        - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Basic%20Join/Average%20Population%20of%20Each%20Continent) | Score: 10
+  05. Alternative Queries
+
+        - Draw The Triangle 1 | [Problem](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Alternative%20Queries/Draw%20The%20Triangle%201) | Score: 10
+        - Draw The Triangle 2 | [Problem](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/SQL/Alternative%20Queries/Draw%20The%20Triangle%202) | Score: 10
