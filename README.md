@@ -19,6 +19,10 @@ This repository contains 185 solutions to Hackerrank practice problems with C# a
         - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Mini-Max%20Sum) | Score: 10
         - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Birthday%20Cake%20Candles) | Score: 10
         - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Time%20Conversion) | Score: 10
-   02.Implementation
-     
-        - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Time%20Conversion) | Score: 10
+
+    02. Implementation
+        - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Implementation/Grading%20Students) | Score: 10
+        - Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Implementation/Number%20Line%20Jumps) | Score: 10
+        - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Implementation/Counting%20Valleys) | Score: 10
+
+ 
