@@ -19,3 +19,6 @@ This repository contains 185 solutions to Hackerrank practice problems with C# a
         - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Mini-Max%20Sum) | Score: 10
         - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Birthday%20Cake%20Candles) | Score: 10
         - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Time%20Conversion) | Score: 10
+   02.Implementation
+     
+        - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Warmup/Time%20Conversion) | Score: 10
