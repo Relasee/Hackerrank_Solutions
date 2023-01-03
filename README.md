@@ -22,7 +22,7 @@ This repository contains 185 solutions to Hackerrank practice problems with C# a
 
     02. Implementation
         - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Implementation/Grading%20Students) | Score: 10
-        - Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Implementation/Number%20Line%20Jumps) | Score: 10
+        - Number Line Jumps | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Algorithms/Implementation/Number%20Line%20Jumps) | Score: 10
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/Relasee/Hackerrank_Solutions/blob/main/Implementation/Counting%20Valleys) | Score: 10
 
  
