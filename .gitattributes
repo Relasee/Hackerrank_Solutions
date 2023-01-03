@@ -1,0 +1,3 @@
+
+*.SQL linguist-detectable=true
+*.C# linguist-detectable=true
