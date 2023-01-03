@@ -1,0 +1,2 @@
+select city.NAME from CITY inner join country
+on city.countrycode=country.code where continent='Africa'
